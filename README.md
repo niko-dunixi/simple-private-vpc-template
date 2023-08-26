@@ -47,3 +47,4 @@ The primary commands are straight forward
 ## Further Reading
 - https://docs.aws.amazon.com/whitepapers/latest/aws-privatelink/what-are-vpc-endpoints.html
 - https://aws.amazon.com/vpc/pricing/
+- https://aws.amazon.com/privatelink/pricing/
