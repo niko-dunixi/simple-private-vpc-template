@@ -6,7 +6,7 @@ a NAT. Instead it provisions Gateway interfaces to lower cost
 while prototyping resources that must have a VPC (such as Fargate)
 but don't need to have egress to the internet at large.
 
-> Please note, there VPC Endpoints are lot cost but are NOT free
+> Please note, there VPC Endpoints are low cost but are NOT free
 
 ## Dependencies
 You will need to install the following for your machine
